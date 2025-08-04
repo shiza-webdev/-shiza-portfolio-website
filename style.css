@@ -235,5 +235,10 @@ body {
     background-color: #333;
     color: white;
   }
-  
+  <section id="about">
+  <h2>About Me</h2>
+  <img src="images/myphoto.jpg" alt="My Photo" width="200">
+  <p>Hello! I'm Ayesha, a passionate web development intern. I love building user-friendly websites.</p>
+  <p>I enjoy learning HTML, CSS, and JavaScript and am excited to work on real projects.</p>
+</section>
   
